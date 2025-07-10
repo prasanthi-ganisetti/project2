@@ -1,0 +1,19 @@
+.container{
+    width: 75%;
+    margin:auto;
+    height: 100px;
+
+}
+.item-1,.item-2,.item-3,.item-4{
+    width: 300px;
+    border:2px solid black;
+    display: inline-block;
+    
+}
+img{
+    width:100%;
+   
+}
+h2,p{
+    text-align:center;
+}
